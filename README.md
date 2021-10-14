@@ -7,7 +7,9 @@
 - 👯 I’m looking to collaborate on website, mobile app, videogame ...
 - 🤔 I’m looking for help with CSS.
 - 💬 Ask me about what you want.
-- 📫 How to reach me: [Instagram]: https://www.instagram.com/mathieu_omega/?hl=fr
-- ⚡ Fun fact: I'm a beat maker too! Let's go listen my top 3 :  [Soundcloud]: https://soundcloud.com/mathieu-peran/tracks
+- 📫 How to reach me: 
+[Instagram]: https://www.instagram.com/mathieu_omega/?hl=fr
+- ⚡ Fun fact: I'm a beat maker too! Let's go listen my top 3 :  
+[Soundcloud]: https://soundcloud.com/mathieu-peran/tracks
 
 
