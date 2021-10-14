@@ -44,7 +44,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mathieu-URA GitHub Stats" src="https://github-readme-stats.Mathieu-URA.vercel.app/api?username=Mathieu-URA&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathieu-URA)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
