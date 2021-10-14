@@ -1,6 +1,6 @@
 ### I'M MATHIEU PERAN AND I'M A FULL STACK DEVELOPER JUNIOR
 
-[website]: https://mathieu-ura.github.io/PortfolioMathieu/
+[website]: https://mathieu-ura.github.io/PortfolioMathieu
 
 - 🔭 I’m 27 years old
 - 🌱 I’m currently learning Back End developer stuff.
