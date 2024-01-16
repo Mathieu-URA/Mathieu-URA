@@ -3,10 +3,10 @@
 [My website][website]
 
 
-- 🔭 I’m 27 years old
-- 🌱 I’m currently learning Back End developer stuff.
+- 🔭 I’m 29 years old
+- 🌱 I’m currently software engineer for CAP GEMINI.
 - 👯 I’m looking to collaborate on website, mobile app, videogame ...
-- 🤔 I’m looking for help with CSS.
+- 🤔 I’m looking for help with Java.
 - 💬 Ask me about what you want.
 - 📫 How to reach me: [Instagram][instagram] 
 - ⚡ Fun fact: I'm a beat maker! [Here you have my top 3][soundcloud]
